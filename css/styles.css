@@ -660,7 +660,7 @@ address {
     letter-spacing: 0.06em;
     color: var(--btn-txt-cl);
     background-color: var(--accent-txt-cl);
-    transition: background-color var(--btn-bl-cl);
+    transition: background-color var(--anim);
 }
 
 .footer-button:hover,
