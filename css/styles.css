@@ -923,6 +923,7 @@ address {
 
     cursor: pointer;
     transition: background-color var(--anim);
+    border: none;
 }
 
 .form-button:focus,
